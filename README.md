@@ -8,7 +8,7 @@ This analysis was initiated by Bobby, an HR analyst working at the company Pewle
 
 ## Process
 
-I created a database in PostgreSQL, using the SQL query language, and some data provided by Bobby at Pewlett Hackard. To identify how many employees would be retiring in each role, I first create a table of all employees eligible to retire and their titles. I then used the DISTINCT ON method, along with ORDER BY their end date, to find current employees and their most recent title. I then identified staff about ten years from retirement who may be eligible for a mentorship program. All data can be found [here](https://github.com/ehalprin/pewlett_hackard_analysis/tree/main/data)
+I created a database in PostgreSQL, using the SQL query language, and some data provided by Bobby at Pewlett Hackard. To identify how many employees would be retiring in each role, I first create a table of all employees eligible to retire and their titles. I then used the DISTINCT ON method, along with ORDER BY their end date, to find current employees and their most recent title. I then identified staff about ten years from retirement who may be eligible for a mentorship program. Full data can be found [here](https://github.com/ehalprin/pewlett_hackard_analysis/tree/main/data).
 
 !['Distinct On' Method](https://github.com/ehalprin/pewlett_hackard_analysis/blob/main/Distinct_On.png)
 
