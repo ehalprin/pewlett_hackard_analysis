@@ -4,7 +4,7 @@
 
 ## Background & Purpose
 
-This analysis was initiated by Bobby, an HR analyst working at the company Pewlett Hackard, who is attempting to prepare for a predicted wave of retirements among Pewlett Hackard staff. The purpose of this analysis was to identify how many employees in what roles were eligible to retire, and how many employees may be eligible to participate in a mentorship program to prepare them to fill vacancies created by retiring staff. 
+This analysis was initiated by Bobby, an HR analyst working at the company Pewlett Hackard, who is attempting to prepare for a predicted wave of retirements among Pewlett Hackard staff. The purpose of this analysis is to identify how many employees in what roles are eligible to retire, and how many employees may be eligible to participate in a mentorship program to prepare them to fill vacancies created by retiring staff. 
 
 ## Process
 
@@ -30,4 +30,4 @@ Pewlett Hackard will need to fill over 70,000 positions as a huge number of thei
 
 ## Additional Queries
 
-In order to continue to "future proof" Pewlett Hackard, additional analysis should be completed. As many of the positions being vacated are Senior Engineers or Senior Staff, another table that should be created is a table of current Staff and Engineers earlier in their careers who may be potentially eligible for promotion, to fill in the gaps by senior leadership leaving. Another potentially important aspect to look at is salary information; are staff getting salary increases along with promotions? Employee retention should be a top priority for Pewlett Hackard, and making sure staff are getting regular raises is a great way to make sure people are happy and the company doesn't lose more people than they already are going to.
+In order to continue to "future proof" Pewlett Hackard, additional analysis should be completed. As many of the positions being vacated are Senior Engineers or Senior Staff, another table that should be created is a table of current Staff and Engineers earlier in their careers who may be potentially eligible for promotion, to fill in the gaps by senior leadership leaving. Another potentially important aspect to look at is salary information; are staff getting regular salary increases during their time at Pewlett Hackard? Employee retention should be a top priority for the company, and making sure staff are getting regular raises is a great way to make sure that they're happy, and that the company doesn't lose more people than they already are going to.
